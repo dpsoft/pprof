@@ -1,4 +1,4 @@
-module github.com/gin-contrib/pprof
+module github.com/dpsoft/pprof
 
 go 1.14
 

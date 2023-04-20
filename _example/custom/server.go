@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/gin-contrib/pprof"
+	"github.com/dpsoft/pprof"
 	"github.com/gin-gonic/gin"
 )
 
